@@ -15,6 +15,3 @@ test_for_create_Alarm.py
 test_for_create_RemoveAlarm.py
 	主要功能：
 		模拟向EsperApplication发送取消告警规则的功能。
-
-		？？？
-		
